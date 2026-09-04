@@ -72,6 +72,7 @@ data-analyst/
 ├── recursos.md                ← libros, cursos, datasets, herramientas
 ├── bitacora.md                ← log de sesiones de estudio
 ├── etapas/                    ← una nota por etapa, con checklist
+├── semanas/                   ← plan día por día + ejercicios y soluciones
 ├── proyectos/                 ← los 6 proyectos + capstone
 └── notas/                     ← apuntes libres, resúmenes, dudas
 ```
@@ -96,10 +97,12 @@ Eso es formación profesional de analista, no una lista de herramientas aprendid
 
 ---
 
-## 🚦 Cómo usar este repo
+## 🚦 Empezá acá
+
+👉 **[[semanas/semana-01|Semana 1 — arranca el viernes 4/9]]** · [[semanas/README|Todas las semanas]]
 
 1. Abrí [[progreso]] y marcá dónde estás.
-2. Entrá a la nota de la etapa actual y trabajá su checklist.
+2. Seguí el plan día por día de la semana actual en `semanas/`.
 3. Registrá cada sesión en [[bitacora]].
 4. Al cerrar una etapa, completá su sección **Criterio de dominio** — si no la podés responder, la etapa no está cerrada.
 5. Cada etapa con proyecto asociado no se cierra hasta que el proyecto esté hecho.

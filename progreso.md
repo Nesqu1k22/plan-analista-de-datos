@@ -5,9 +5,11 @@ plan: data-analyst
 
 # 📊 Progreso general
 
-**Inicio:** _(completar)_
-**Etapa actual:** Etapa 1 — Fundamentos matemáticos
+**Inicio:** 2026-09-04 (viernes)
+**Etapa actual:** Etapa 1 — Fundamentos matemáticos 🟡
+**Semana actual:** [[semanas/semana-01|Semana 1]] (4/9 – 12/9)
 **Horas acumuladas:** 0
+**Fin estimado:** ~junio 2027 (9–10 meses)
 
 ---
 
@@ -15,7 +17,7 @@ plan: data-analyst
 
 | # | Etapa | Estado | Inicio | Fin | Horas | Proyecto |
 |---|-------|--------|--------|-----|-------|----------|
-| 1 | Fundamentos matemáticos | 🔲 Pendiente | | | | — |
+| 1 | Fundamentos matemáticos | 🟡 En curso | 2026-09-04 | | | — |
 | 2 | Excel profesional | 🔲 Pendiente | | | | Dashboard de ventas |
 | 3 | Estadística y probabilidad | 🔲 Pendiente | | | | — |
 | 4 | SQL y bases de datos | 🔲 Pendiente | | | | — |
