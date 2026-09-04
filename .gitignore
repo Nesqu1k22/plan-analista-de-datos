@@ -1,0 +1,29 @@
+# Obsidian
+.obsidian/
+.trash/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Datos crudos y pesados — el repo es de notas, no de datasets
+data/
+datasets/
+*.csv
+*.xlsx
+*.xls
+*.pbix
+*.db
+*.sqlite
+
+# Python
+__pycache__/
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Secretos
+.env
+credentials.json
+*.key
